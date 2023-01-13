@@ -1,18 +1,19 @@
 # IBM-HR-Analytics-Employee-Attrition-Performance
 Predict attrition of your valuable employees
 
-Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-Project is available in: https://www.kaggle.com/code/gokcenur00/ibm-hire-training
-About Dataset
+Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset <br>
+Project is available in: https://www.kaggle.com/code/gokcenur00/ibm-hire-training <br>
+<br>
+About Dataset <br>
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
-
-Education
-1 'Below College'
-2 'College'
-3 'Bachelor'
-4 'Master'
-5 'Doctor'
-
+<br>
+Education <br>
+1 'Below College' <br>
+2 'College' <br>
+3 'Bachelor' <br>
+4 'Master' <br>
+5 'Doctor' <br>
+<br>
 EnvironmentSatisfaction
 1 'Low'
 2 'Medium'
