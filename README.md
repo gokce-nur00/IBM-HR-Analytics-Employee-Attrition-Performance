@@ -14,38 +14,38 @@ Education <br>
 4 'Master' <br>
 5 'Doctor' <br>
 <br>
-EnvironmentSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-JobInvolvement
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-JobSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-PerformanceRating
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
-
-RelationshipSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-WorkLifeBalance
-1 'Bad'
-2 'Good'
-3 'Better'
-4 'Best'
+EnvironmentSatisfaction <br>
+1 'Low' <br>
+2 'Medium' <br>
+3 'High' <br>
+4 'Very High' <br>
+<br>
+JobInvolvement <br>
+1 'Low' <br>
+2 'Medium' <br>
+3 'High' <br>
+4 'Very High' <br>
+<br>
+JobSatisfaction <br>
+1 'Low' <br>
+2 'Medium' <br>
+3 'High' <br>
+4 'Very High' <br>
+<br>
+PerformanceRating <br>
+1 'Low' <br>
+2 'Good' <br>
+3 'Excellent' <br>
+4 'Outstanding' <br>
+<br>
+RelationshipSatisfaction <br>
+1 'Low' <br>
+2 'Medium' <br>
+3 'High' <br>
+4 'Very High' <br>
+<br>
+WorkLifeBalance <br>
+1 'Bad' <br>
+2 'Good' <br>
+3 'Better'<br>
+4 'Best'<br>
